@@ -125,8 +125,7 @@ I'm an **Aspiring Ethical Hacker** and **Cybersecurity Enthusiast** passionate a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachida-sec&show_icons=true&theme=radical&bg_color=000000&title_color=00FF9C&text_color=FFFFFF&icon_color=00FF9C" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachida-sec&theme=radical&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=FFFFFF" width="48%"/>
+![Sachida's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachida-cyber&show_icons=true&theme=radical)
 </p>
 
 ---
