@@ -11,9 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Sachida+Sharma;Aspiring+Ethical+Hacker;Offensive+Security+Learner;Future+Penetration+Tester;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Anonymous Mask -->
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/anonymous-mask.gif" width="400px"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 
