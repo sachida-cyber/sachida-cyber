@@ -11,10 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Sachida+Sharma;Aspiring+Ethical+Hacker;Offensive+Security+Learner;Future+Penetration+Tester;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Hacker Skull Glitch Animation -->
+<!-- Anonymous Mask -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-repo/skull-glitch.svg" width="100%" alt="Glitching skull symbol"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/anonymous-mask.gif" width="400px"/>
 </p>
+
 
 
 ---
@@ -88,6 +89,46 @@ Goal: Become a **penetration tester** in the next 6 months.
 </p>
 
 ---
+
+## 🎯 My Learning Progress
+
+| Platform        | Status   | Proof / Profile |
+|-----------------|---------|------------------|
+| **TryHackMe**   | Currently doing Jr. Penetration Tester Path | [View Profile](https://tryhackme.com/) |
+| **Hack The Box** | Solving Starting Point & Easy Machines | [View Profile](https://hackthebox.com/) |
+| **PortSwigger** | Practicing OWASP Top 10 Labs | [View Labs](https://portswigger.net/web-security) |
+| **Certifications** | eJPT — In Progress | Coming Soon |
+
+---
+
+## Badges & Achievements
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/username.png" alt="TryHackMe Badge" width="300px" />
+</p>
+
+<p align="center">
+  <img src="https://www.hackthebox.com/badge/image/username" alt="Hack The Box Badge" width="300px" />
+</p>
+
+> ⚡ **Note:** Replace `username` with your TryHackMe & HTB usernames.
+
+---
+
+## 📂 Featured Repositories
+
+---
+
+## 📜 Certifications (Planned)
+
+| Certification | Status | Cost | Value |
+|--------------|--------|------|-------|
+| **eJPT** | 🟡 Preparing | $120 | ✅ Globally Recognized |
+| **CEH** | 🔵 Future | Expensive | HR-Friendly |
+| **OSCP** | 🔵 Future | Advanced | Industry Standard |
+
+---
+
 
 ## Progress
 
