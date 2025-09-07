@@ -1,20 +1,20 @@
 GitHub Profile by Sachida
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=👋+Hey+There!+I'm+Sachida+Sharma;🔐+Aspiring+Ethical+Hacker;⚡+Future+Penetration+Tester;☠️+Cybersecurity+Enthusiast;🚀+Learning+Offensive+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=+Hey+There!+I'm+Sachida+Sharma;+Aspiring+Ethical+Hacker;⚡+Future+Penetration+Tester;☠️+Cybersecurity+Enthusiast; +Learning+Offensive+Security" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🕶️ About Me
 
-Hi, I'm **Sachida Sharma** 👨‍💻  
+Hi, I'm **Sachida Sharma** 
 I'm an **Aspiring Ethical Hacker** and **Cybersecurity Enthusiast** passionate about **penetration testing, web app security, and bug hunting**.  
 Currently, I'm pursuing **hands-on hacking labs** and preparing for my **eJPT certification**.  
 
-🌱 **Learning Path** → `TryHackMe` | `Hack The Box` | `PortSwigger Web Academy`  
-🎯 **Goal** → Become a **Penetration Tester / SOC Analyst** in the next **6 months**.  
-⚡ **Special Interest** → Web Security, Network Pentesting, and Capture The Flag (CTF).  
+**Learning Path** → `TryHackMe` | `Hack The Box` | `PortSwigger Web Academy`  
+**Goal** → Become a **Penetration Tester / SOC Analyst** in the next **6 months**.  
+**Special Interest** → Web Security, Network Pentesting, and Capture The Flag (CTF).  
 
 ---
 
@@ -33,18 +33,18 @@ Currently, I'm pursuing **hands-on hacking labs** and preparing for my **eJPT ce
 
 ---
 
-## 🎯 My Learning Progress
+## My Learning Progress
 
 | Platform        | Status   | Proof / Profile |
 |-----------------|---------|------------------|
-| **TryHackMe**   | 🚀 Currently doing Jr. Penetration Tester Path | [View Profile](https://tryhackme.com/) |
-| **Hack The Box** | 🔓 Solving Starting Point & Easy Machines | [View Profile](https://hackthebox.com/) |
-| **PortSwigger** | 🕵️‍♂️ Practicing OWASP Top 10 Labs | [View Labs](https://portswigger.net/web-security) |
-| **Certifications** | 📜 eJPT — In Progress | Coming Soon |
+| **TryHackMe**   |  Currently doing Jr. Penetration Tester Path | [View Profile](https://tryhackme.com/) |
+| **Hack The Box** |  Solving Starting Point & Easy Machines | [View Profile](https://hackthebox.com/) |
+| **PortSwigger** |  Practicing OWASP Top 10 Labs | [View Labs](https://portswigger.net/web-security) |
+| **Certifications** |  eJPT — In Progress | Coming Soon |
 
 ---
 
-## 🏆 Badges & Achievements
+##  Badges & Achievements
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/username.png" alt="TryHackMe Badge" width="300px" />
@@ -62,24 +62,24 @@ Currently, I'm pursuing **hands-on hacking labs** and preparing for my **eJPT ce
 
 | Repository | Description | Status |
 |-----------|------------|--------|
-| **tryhackme-writeups** | My step-by-step write-ups of solved TryHackMe labs | 🔥 Active |
-| **hackthebox-reports** | Detailed exploitation reports for Hack The Box machines | 🔥 Active |
-| **portswigger-labs** | Solutions to OWASP Top 10 Labs | 🚀 In Progress |
-| **hacking-notes** | My personal pentesting notes, cheatsheets & payloads | 📚 Growing |
+| **tryhackme-writeups** | My step-by-step write-ups of solved TryHackMe labs |  Active |
+| **hackthebox-reports** | Detailed exploitation reports for Hack The Box machines |  Active |
+| **portswigger-labs** | Solutions to OWASP Top 10 Labs |  In Progress |
+| **hacking-notes** | My personal pentesting notes, cheatsheets & payloads |  Growing |
 
 ---
 
-## 📜 Certifications (Planned)
+##  Certifications (Planned)
 
 | Certification | Status | Cost | Value |
 |--------------|--------|------|-------|
-| **eJPT** | 🟡 Preparing | $120 | ✅ Globally Recognized |
-| **CEH** | 🔵 Future | Expensive | HR-Friendly |
-| **OSCP** | 🔵 Future | Advanced | Industry Standard |
+| **eJPT** |  Preparing | $120 |  Globally Recognized |
+| **CEH** |  Future | Expensive | HR-Friendly |
+| **OSCP** |  Future | Advanced | Industry Standard |
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
