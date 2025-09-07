@@ -12,17 +12,26 @@
 </p>
 
 ---
-
-<!-- Snake Animation -->
+<!-- Anonymous Mask -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/anonymous-mask.gif" width="400px"/>
 </p>
+
+<!-- Matrix Skull -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/matrix-skull.gif" width="700px"/>
+</p>
+
+<!-- Hacker Skull Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/skull-hacker.gif" width="600px"/>
+</p>
+
 
 ---
 
 ## About Me
 
-Matte-black mindset.  
 I’m **Sachida Sharma** → an **aspiring ethical hacker** obsessed with **exploits, web security, and digital forensics**.  
 
 Currently:  
