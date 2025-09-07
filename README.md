@@ -6,6 +6,18 @@
   <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/hacker-green.gif" width="1000px"/>
 </p>
 
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Sachida+Sharma;Aspiring+Ethical+Hacker;Offensive+Security+Learner;Future+Penetration+Tester;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+<!-- Anonymous Mask -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-icons/main/anonymous-mask.gif" width="400px"/>
+</p>
+
+
 
 ---
 
