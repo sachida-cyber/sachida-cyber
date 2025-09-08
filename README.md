@@ -114,6 +114,31 @@ Goal: Become a **penetration tester** in the next 6 months.
 > ⚡ **Note:** Replace `username` with your TryHackMe & HTB usernames.
 
 ---
+## 📜 Certifications
+
+<div align="center">
+
+### ✅ My Coursera Certificate  
+
+[![Coursera Certificate](assets/coursera-cert.png)](https://www.coursera.org/account/accomplishments/verify/XXXXXXXX)
+
+</div>
+
+---
+
+### 🎯 Certification Progress
+
+| Certification | Status | Proof |
+|---------------|--------|-------|
+| eJPT (eLearnSecurity) | 🟡 Preparing | Coming Soon |
+| CEH (EC-Council) | 🔵 Future | Planned |
+| OSCP (OffSec) | 🔵 Future | Planned |
+| **Coursera Completed Course** | 🟢 Done | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=coursera)](https://www.coursera.org/account/accomplishments/verify/XXXXXXXX) |
+
+---
+
+
+
 
 ## 📂 Featured Repositories
 
