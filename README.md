@@ -133,7 +133,13 @@ Goal: Become a **penetration tester** in the next 6 months.
 | eJPT (eLearnSecurity) | 🟡 Preparing | Coming Soon |
 | CEH (EC-Council) | 🔵 Future | Planned |
 | OSCP (OffSec) | 🔵 Future | Planned |
-| **Coursera Completed Course** | 🟢 Done | [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=coursera)](https://www.coursera.org/account/accomplishments/verify/XXXXXXXX) |
+
+<div style="text-align: center;">
+  <h3>✅ My Coursera Certificate</h3>
+  <a href="[https://www.coursera.org/account/accomplishments/verify/XXXXXXXX](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=coursera)](https://www.coursera.org/account/accomplishments/verify/XXXXXXXX)" target="_blank" rel="noopener noreferrer">
+    <img src="assets/Coursera8MEW3JU5FY5G.png" alt="Coursera Certificate" style="max-width:100%;height:auto;">
+  </a>
+</div>
 
 ---
 
