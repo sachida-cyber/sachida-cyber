@@ -120,7 +120,7 @@ Goal: Become a **penetration tester** in the next 6 months.
 
 ### ✅ My Coursera Certificate  
 
-[![Coursera Certificate](assets/coursera-cert.png)](https://www.coursera.org/account/accomplishments/verify/XXXXXXXX)
+[![Coursera Certificate](assets/Coursera8MEW3JU5FY5G.png)]([https://www.coursera.org/account/accomplishments/verify/XXXXXXXX](https://lnkd.in/gTGKbTKJ))
 
 </div>
 
@@ -137,22 +137,6 @@ Goal: Become a **penetration tester** in the next 6 months.
 
 ---
 
-
-
-
-## 📂 Featured Repositories
-
----
-
-## 📜 Certifications (Planned)
-
-| Certification | Status | Cost | Value |
-|--------------|--------|------|-------|
-| **eJPT** | 🟡 Preparing | $120 | ✅ Globally Recognized |
-| **CEH** | 🔵 Future | Expensive | HR-Friendly |
-| **OSCP** | 🔵 Future | Advanced | Industry Standard |
-
----
 
 
 ## Progress
