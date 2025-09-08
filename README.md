@@ -90,7 +90,7 @@ Goal: Become a **penetration tester** in the next 6 months.
 
 ---
 
-## 🎯 My Learning Progress
+## My Learning Progress
 
 | Platform        | Status   | Proof / Profile |
 |-----------------|---------|------------------|
@@ -111,7 +111,6 @@ Goal: Become a **penetration tester** in the next 6 months.
   <img src="https://www.hackthebox.com/badge/image/username" alt="Hack The Box Badge" width="300px" />
 </p>
 
-> ⚡ **Note:** Replace `username` with your TryHackMe & HTB usernames.
 
 ---
 ## 📜 Certifications
