@@ -183,32 +183,67 @@ Goal: Become a **penetration tester** in the next 6 months.
   <div id="badges" class="panel">
     <h2>Badges</h2>
 
-    <div class="badge">
-      <img src="/img/badges/firstfour.svg" alt="First Four">
-      <div>
-        <p><strong>First Four</strong></p>
-        <p>Completed four rooms in the first week!</p>
-        <span>Common: 27.6%</span>
-      </div>
-    </div>
+  # 👨‍💻 My Cybersecurity Journey
 
-    <div class="badge">
-      <img src="/img/badges/streak3.svg" alt="3 Day Streak">
-      <div>
-        <p><strong>3 Day Streak</strong></p>
-        <p>Achieved a 3-day hacking streak.</p>
-        <span>Common: 32.3%</span>
-      </div>
-    </div>
+Welcome to my profile! 🚀 Here’s a quick overview of my learning progress, achievements, and contributions.  
 
-    <div class="badge">
-      <img src="/img/badges/hack2win.svg" alt="Raffle Royalty">
-      <div>
-        <p><strong>Raffle Royalty</strong></p>
-        <p>Participated in Hack2Win 2025!</p>
-        <span>Common: 41.8%</span>
-      </div>
-    </div>
+---
+
+## ✅ Completed Rooms
+- Linux Fundamentals
+- Nmap Basics
+- Web Exploitation
+- Privilege Escalation
+
+---
+
+## 📜 Certificates
+- [TryHackMe Linux Fundamentals](#)
+- [Kali Linux Basics](#)
+- [Ethical Hacking 101](#)
+
+---
+
+## 📊 Skills Matrix
+| Skill              | Progress |
+|--------------------|----------|
+| Linux              | ██████████ 90% |
+| Networking         | ████████░░ 70% |
+| Web Exploitation   | █████████░ 85% |
+| Cryptography       | ██████░░░░ 60% |
+| Scripting (Python) | ██████░░░░ 55% |
+
+---
+
+## 🏆 Badges
+
+### 🔹 First Four  
+Completed four rooms in the first week!  
+<img src="./assets/firstfour.svg" width="100" alt="First Four Badge">  
+
+---
+
+### 🔹 3 Day Streak  
+Achieved a 3-day hacking streak.  
+<img src="./assets/streak3.svg" width="100" alt="3 Day Streak Badge">  
+
+---
+
+### 🔹 Raffle Royalty  
+Participated in Hack2Win 2025!  
+<img src="./assets/hack2win.svg" width="100" alt="Raffle Royalty Badge">  
+
+---
+
+## 📦 Created Rooms
+- [Beginner Linux Challenges](#)
+- [Basic Web Pentesting](#)
+
+---
+
+## 📅 Yearly Activity
+🔥 Consistently learning & practicing cybersecurity every week!  
+
   </div>
 
   <div id="created" class="panel">
