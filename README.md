@@ -183,90 +183,57 @@ Goal: Become a **penetration tester** in the next 6 months.
   <div id="badges" class="panel">
     <h2>Badges</h2>
 
-  # 👨‍💻 My Cybersecurity Journey
+# 👨‍💻 My Cybersecurity Journey
 
 Welcome to my profile! 🚀 Here’s a quick overview of my learning progress, achievements, and contributions.  
 
 ---
 
-## ✅ Completed Rooms
-- Linux Fundamentals
-- Nmap Basics
-- Web Exploitation
-- Privilege Escalation
+## 🏆 Badges Collection
 
----
-
-## 📜 Certificates
-- [TryHackMe Linux Fundamentals](#)
-- [Kali Linux Basics](#)
-- [Ethical Hacking 101](#)
-
----
-
-## 📊 Skills Matrix
-| Skill              | Progress |
-|--------------------|----------|
-| Linux              | ██████████ 90% |
-| Networking         | ████████░░ 70% |
-| Web Exploitation   | █████████░ 85% |
-| Cryptography       | ██████░░░░ 60% |
-| Scripting (Python) | ██████░░░░ 55% |
-
----
-
-## 🏆 Badges
+<div align="center">
 
 ### 🔹 First Four  
+<img src="./assets/firstfour.svg" width="120" alt="First Four Badge">  
 Completed four rooms in the first week!  
-<img src="./assets/firstfour.svg" width="100" alt="First Four Badge">  
 
 ---
 
 ### 🔹 3 Day Streak  
+<img src="./assets/streak3.svg" width="120" alt="3 Day Streak Badge">  
 Achieved a 3-day hacking streak.  
-<img src="./assets/streak3.svg" width="100" alt="3 Day Streak Badge">  
 
 ---
 
 ### 🔹 Raffle Royalty  
+<img src="./assets/hack2win.svg" width="120" alt="Raffle Royalty Badge">  
 Participated in Hack2Win 2025!  
-<img src="./assets/hack2win.svg" width="100" alt="Raffle Royalty Badge">  
 
 ---
 
-## 📦 Created Rooms
-- [Beginner Linux Challenges](#)
-- [Basic Web Pentesting](#)
+### 🔹 Linux Master  
+<img src="./assets/linuxmaster.svg" width="120" alt="Linux Master Badge">  
+Completed all Linux fundamentals rooms!  
 
 ---
 
-## 📅 Yearly Activity
-🔥 Consistently learning & practicing cybersecurity every week!  
+### 🔹 Web Hunter  
+<img src="./assets/webhunter.svg" width="120" alt="Web Hunter Badge">  
+Specialist in web exploitation rooms!  
 
-  </div>
+---
 
-  <div id="created" class="panel">
-    <h2>Created Rooms</h2>
-    <p>Your created rooms will appear here.</p>
-  </div>
+### 🔹 Crypto Cracker  
+<img src="./assets/cryptocracker.svg" width="120" alt="Crypto Cracker Badge">  
+Solved 50+ cryptography challenges!  
 
-  <div id="yearly" class="panel">
-    <h2>Yearly Activity</h2>
-    <p>Yearly contributions and stats.</p>
-  </div>
+---
 
-  <script>
-    function openTab(evt, tabId) {
-      document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-      document.getElementById(tabId).classList.add('active');
-      evt.currentTarget.classList.add('active');
-    }
-  </script>
+### 🔹 Stealth Ninja  
+<img src="./assets/stealthninja.svg" width="120" alt="Stealth Ninja Badge">  
+Maintained a 30-day hacking streak!  
 
-</body>
-</html>
+</div>
 
 </div>
 ---
