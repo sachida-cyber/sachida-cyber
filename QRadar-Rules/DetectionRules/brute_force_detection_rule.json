@@ -1,0 +1,37 @@
+{
+  "name": "Brute Force Login Detection",
+  "id": "QRR-001",
+  "description": "Detects multiple failed login attempts followed by a successful login within a short time window, indicating a possible brute force attack.",
+  "logsource": {
+    "product": "Windows Security Event Logs",
+    "category": "Authentication"
+  },
+  "condition": {
+    "failed_logins": {
+      "eventName": "User Login Failed",
+      "threshold": 5,
+      "timeframe_minutes": 10
+    },
+    "success_after_fail": {
+      "eventName": "User Login Success",
+      "correlates_with": "failed_logins",
+      "timeframe_minutes": 5
+    }
+  },
+  "response": {
+    "severity": "High",
+    "offense_type": "Brute Force Attack",
+    "actions": [
+      "Add to offense",
+      "Generate alert",
+      "Tag source IP with 'BruteForce-IP'"
+    ]
+  },
+  "mitre_attack": {
+    "tactic": "Credential Access",
+    "technique": "T1110 – Brute Force"
+  },
+  "author": "Sachida Nand Sharma",
+  "version": "1.0",
+  "last_updated": "2025-10-25"
+}
