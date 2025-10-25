@@ -1,194 +1,115 @@
 # TryHackMe – SOC Level 1 & Cyber Security 101 Labs
 
 ## Overview
-This folder documents my hands-on training on TryHackMe with two primary focuses:
-1. **Cyber Security 101 Path** — foundational concepts and a full introductory pathway (Completed).  
-2. **SOC Level 1 Path** — practical SOC skills including network traffic analysis, intrusion detection, and incident triage (Ongoing).
+This section highlights my learning progress and hands-on practice on **TryHackMe**, covering both the **SOC Level 1 Path** and the **Cyber Security 101 Path**.  
+These paths have built a strong foundation in **network defense, traffic analysis, intrusion detection,** and **cyber operations**.
 
-Together these paths provide a balanced foundation across offensive and defensive domains, network forensics, and SOC operational tasks.
-
-**Progress:**  
-- Cyber Security 101 — 100% (Completed)  
-- SOC Level 1 — 36% (In progress)
+**SOC Level 1 Progress:** 36%  
+**Cyber Security 101 Path:** 100% (Completed)
 
 ---
 
 ## Visual Certificates & Badges
-Place your certificate and badge images in the `assets/` folder and update the file names if needed. Example placeholders:
 
-../assets/img1.jpg # Cyber Security 101 certificate (use actual file name)
-../assets/img2.jpg # SOC Level 1 progress / badge image
-../assets/img3.jpg # Any additional certification (TryHackMe, e.g., Pre-Security)
+<div align="center">
 
+<img src="../assets/img1.jpg" width="400" alt="Cyber Security 101 Certificate"/><br>
+<em>Certificate of Completion – TryHackMe Cyber Security 101 Path</em>
 
-Display example:
-```html
-<img src="../assets/img1.jpg" width="400" alt="Cyber Security 101 Certificate"/>
-<img src="../assets/img2.jpg" width="400" alt="SOC Level 1 Progress Badge"/>
+---
 
-Cyber Security 101 Path (Completed)
+<img src="../assets/img2.jpg" width="400" alt="SOC Level 1 Progress Badge"/><br>
+<em>Progress Badge – SOC Level 1</em>
 
-Description: Beginner-friendly pathway introducing essential domains of computer security. Ideal for building the foundational skills required for a career in cybersecurity.
+---
 
-Path Objectives:
+<img src="../assets/img3.jpg" width="400" alt="Pre-Security or Other Certificate"/><br>
+<em>Additional Certificate (Optional)</em>
 
-Understand core computer networking and cryptography concepts.
+</div>
 
-Gain familiarity with Windows, Active Directory, and Linux basics.
+---
 
-Learn offensive security tooling and basic exploitation concepts.
+## Path 1: Cyber Security 101
 
-Explore defensive security solutions, SOC fundamentals, and incident response workflows.
+### Overview
+This beginner-friendly learning path provides a solid introduction to the key domains of computer security, including:
+- Computer networking and cryptography  
+- Windows, Linux, and Active Directory fundamentals  
+- Offensive and defensive security tools  
+- System exploitation and web hacking  
+- Cybersecurity career exploration  
 
-Identify cybersecurity career options and required skills.
+**Path Completion:** 100%  
+**Total Modules:** 12  
+**Career Alignment:** Penetration Tester / Security Analyst
 
-Modules / Topics Covered:
+---
 
-Start Your Cyber Security Journey
+### Modules Completed
 
-Linux Fundamentals
+| Module | Description |
+|---------|-------------|
+| **Start Your Cyber Security Journey** | Introduction to cybersecurity fundamentals and its applications. |
+| **Linux Fundamentals** | Using the Linux operating system and CLI — essential for security operations. |
+| **Windows and AD Fundamentals** | Understanding Windows environments and Active Directory architecture. |
+| **Command Line** | Practical Bash and PowerShell usage for system navigation and automation. |
+| **Networking** | OSI model, TCP/IP layers, and packet-level communication concepts. |
+| **Cryptography** | Core principles of symmetric/asymmetric encryption and hashing algorithms. |
+| **Exploitation Basics** | Understanding vulnerabilities and leveraging Metasploit for controlled exploits. |
+| **Web Hacking** | Exploring OWASP Top 10, SQL Injection, and web application flaws. |
+| **Offensive Security Tooling** | Working with Hydra, Gobuster, and SQLMap for reconnaissance and testing. |
+| **Defensive Security** | Introduction to SOC operations, forensics, and detection engineering. |
+| **Security Solutions** | Learning about firewalls, IDS, vulnerability scanners, and SIEM. |
+| **Defensive Security Tooling** | Using CyberChef, CAPA, REMnux, and FlareVM for analysis and defense. |
 
-Windows and Active Directory Fundamentals
+---
 
-Command Line (Bash & PowerShell)
+## Path 2: SOC Level 1
 
-Networking (OSI model, TCP/IP)
+### Overview
+This path focuses on real-world **SOC Analyst training**, preparing for Level 1 security monitoring, alert triage, and incident response.  
+It emphasizes detection, investigation, and response using popular blue-team tools.
 
-Cryptography (hashing, symmetric/asymmetric)
+**Path Progress:** 36% (Ongoing)
 
-Exploitation Basics (intro to vulnerabilities & Metasploit)
+---
 
-Web Hacking (OWASP Top 10, Burp Suite)
+### Modules in Progress
 
-Offensive Security Tooling (Hydra, Gobuster, SQLMap)
+| Module | Description |
+|---------|-------------|
+| **Traffic Analysis Essentials** | Introduction to network security and anomaly detection. |
+| **Snort** | Using Snort to detect live and recorded network threats. |
+| **Snort Challenges (Basics & Live Attacks)** | Writing custom Snort rules to detect malicious behavior. |
+| **NetworkMiner** | Analyzing captured traffic and practicing network forensics. |
+| **Zeek & Zeek Exercises** | Network monitoring, protocol analysis, and threat detection with Zeek. |
+| **Brim** | Log analysis and packet capture review using Brim. |
+| **Wireshark Series (Basics, Packet Ops, Traffic Analysis)** | Detailed PCAP analysis and network anomaly detection. |
+| **TShark Series (Basics, CLI Features, Challenges)** | Command-line packet analysis and advanced filtering. |
 
-Defensive Security (SOC basics, digital forensics)
+---
 
-Security Solutions (Firewalls, IDS, SIEM)
+## Demonstrated Skills
+- Network Traffic Capture & PCAP Analysis  
+- Intrusion Detection (Snort / Zeek)  
+- SOC Alert Triage and Log Analysis  
+- Blue Team Investigation Techniques  
+- SIEM Integration Concepts  
+- Threat Hunting & Detection Engineering  
+- Linux and Windows Command-Line Operations  
 
-Defensive Security Tooling (CyberChef, REMnux, FlareVM)
+---
 
-Build Your Cyber Security Career (career guidance and next steps)
+## Learning Outcomes
+By completing these paths, I have gained proficiency in:
+- Network and host-based monitoring fundamentals  
+- Practical understanding of IDS, SIEM, and defensive tooling  
+- Analysis of real-world security incidents using open-source tools  
+- Foundational readiness for SOC Level 1 roles
 
-Outcome: Path completed with certificate. Demonstrates readiness for roles such as Security Analyst and Penetration Tester.
+---
 
-SOC Level 1 Path (In Progress)
-
-Description: Practical SOC-oriented path focused on monitoring, detection, triage, and initial incident response. Emphasis on network analysis and detection tooling.
-
-Current Progress: 36%
-
-Key Labs and Modules (examples included in this folder):
-
-Traffic Analysis Essentials — foundations of network traffic inspection and anomaly detection.
-
-Snort — learn Snort for real-time detection and recorded traffic analysis.
-
-Snort Challenge – The Basics — hands-on rule-writing for live capture analysis.
-
-Snort Challenge – Live Attacks — defending against simulated live attacks.
-
-NetworkMiner — passive network forensics and evidence extraction.
-
-Zeek (Bro) — behavioral network monitoring and detection with Zeek.
-
-Zeek Exercises — practical exercises analyzing network traffic with Zeek.
-
-Brim — PCAP and log investigation for threat hunting.
-
-Wireshark: The Basics — protocol analysis and interpreting PCAPs.
-
-Wireshark: Packet Operations — advanced packet inspection methods.
-
-Wireshark: Traffic Analysis — finding anomalies in network traffic.
-
-TShark: The Basics — CLI-based packet inspection and automation.
-
-TShark: CLI Wireshark Features — advanced command-line packet analysis.
-
-TShark Challenge I & II — collaborative and directory-based TShark exercises.
-
-Skills Demonstrated
-
-Network packet inspection and PCAP analysis (Wireshark, TShark, Brim)
-
-Intrusion detection and signature creation (Snort)
-
-Behavioral monitoring and parsing (Zeek)
-
-Network forensics and evidence extraction (NetworkMiner)
-
-Log correlation and SOC triage workflows
-
-Basic detection engineering and rule tuning
-
-Practical use of TryHackMe environment for lab validation
-
-Tools & Technologies
-
-Wireshark / TShark (packet capture and analysis)
-
-Snort (IDS and signature development)
-
-Zeek (network monitoring & scripting)
-
-NetworkMiner (passive network forensics)
-
-Brim (PCAP/log exploration)
-
-Metasploit, Nmap, Netcat (supporting offensive tooling)
-
-TryHackMe lab environment
-
-Artifacts Included (What to expect in this folder)
-
-pcaps/ — PCAP files from lab exercises (sanitized)
-
-snort-rules/ — custom Snort rules used in challenges
-
-zeek-scripts/ — Zeek scripts or example logs produced by Zeek
-
-wireshark/ — example capture filters and export screenshots (filtered and sanitized)
-
-notes/ — per-room notes, commands used, and key findings (one README.md per room recommended)
-
-screenshots/ — evidence of detections and results (non-sensitive)
-
-Note: Always sanitize captures and logs before adding them to a public repository. Remove real IPs, hostnames, credentials, and any PII.
-
-How to Use / Reproduce
-
-Clone this folder or repository locally:
-
-git clone https://github.com/<yourusername>/sachida-cyber.git
-cd sachida-cyber/2-TryHackMe-Labs
-
-
-Review the notes/ directory for per-room summaries and commands.
-
-Open PCAPs with Wireshark or Brim:
-
-wireshark pcaps/sample.pcap
-
-
-Load Snort rules in a lab VM or use snort -r sample.pcap -c snort.conf for offline testing.
-
-Use Zeek to process captures:
-
-zeek -r pcaps/sample.pcap local
-
-Related Work & Next Steps
-
-Link to 3-Log-Analysis/ for notebooks demonstrating log parsing and analytics.
-
-Link to 1-QRadar-Rules/ for SIEM correlation rules where network detections feed into offense creation.
-
-Continue SOC Level 1 path to complete remaining modules and add new artifacts.
-
-Contact
-
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
-TryHackMe: https://tryhackme.com/p/YOUR-USERNAME
-
-Email: YOUR-EMAIL@example.com
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF9C,100:FF0000&text=Detect%20·%20Analyze%20·%20Defend&fontColor=000000&fontSize=28&animation=twinkling"/>
+</div>
