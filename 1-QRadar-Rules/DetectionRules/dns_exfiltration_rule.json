@@ -1,0 +1,38 @@
+{
+  "name": "DNS Data Exfiltration Detection",
+  "id": "QRR-003",
+  "description": "Detects potential data exfiltration attempts through DNS tunneling or unusually large DNS queries.",
+  "logsource": {
+    "product": "DNS Server",
+    "category": "Network Traffic"
+  },
+  "condition": {
+    "query_length_bytes": {
+      "greater_than": 120
+    },
+    "query_frequency": {
+      "threshold": 100,
+      "timeframe_minutes": 15
+    },
+    "destination_domain": {
+      "entropy_score": "high",
+      "not_in_whitelist": true
+    }
+  },
+  "response": {
+    "severity": "High",
+    "offense_type": "DNS Exfiltration Attempt",
+    "actions": [
+      "Generate alert",
+      "Block domain via firewall API",
+      "Add source IP to watchlist"
+    ]
+  },
+  "mitre_attack": {
+    "tactic": "Exfiltration",
+    "technique": "T1048 – Exfiltration Over Alternative Protocol"
+  },
+  "author": "Sachida Nand Sharma",
+  "version": "1.0",
+  "last_updated": "2025-10-25"
+}
