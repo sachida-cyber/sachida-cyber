@@ -1,0 +1,16 @@
+# ⚙️ Offense Priority Matrix
+**Author:** Sachida Nand Sharma  
+**Purpose:** Define offense severity levels based on impact, confidence, and affected asset criticality.
+
+| Offense Type                | Impact Level | Confidence | Asset Criticality | Final Severity | Recommended Action             |
+|-----------------------------|---------------|-------------|-------------------|----------------|-------------------------------|
+| Brute Force Attack          | Medium        | High        | Medium            | High           | Block source IP, force MFA reset |
+| Phishing Attempt            | Medium        | Medium      | Low               | Medium         | Quarantine email, user awareness |
+| DNS Exfiltration Attempt    | High          | High        | High              | Critical       | Block domain, isolate endpoint  |
+| Ransomware Activity         | Critical      | Very High   | High              | Critical       | Isolate host, trigger IR plan  |
+| Unauthorized SMB Connections| Medium        | Medium      | Medium            | High           | Investigate lateral movement   |
+| Beaconing Activity          | High          | Medium      | Medium            | High           | Review C2 communication logs   |
+
+> **Formula Used:**  
+> Final Severity = (Impact Weight × Confidence Weight × Asset Criticality Weight) ÷ 3  
+> *(Weights: Low=1, Medium=2, High=3, Critical=4)*
