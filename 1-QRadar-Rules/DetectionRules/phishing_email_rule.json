@@ -1,0 +1,33 @@
+{
+  "name": "Phishing Email Attempt Detection",
+  "id": "QRR-002",
+  "description": "Detects possible phishing emails based on suspicious domains, keywords, and malicious attachment types.",
+  "logsource": {
+    "product": "Email Gateway",
+    "category": "Email Security"
+  },
+  "condition": {
+    "subject_keywords": ["password reset", "invoice", "urgent action required"],
+    "sender_domain": {
+      "reputation": "low",
+      "not_in_whitelist": true
+    },
+    "attachment_type": ["exe", "js", "vbs", "zip"]
+  },
+  "response": {
+    "severity": "Medium",
+    "offense_type": "Phishing Attempt",
+    "actions": [
+      "Add to offense",
+      "Tag user mailbox",
+      "Send alert to SOC"
+    ]
+  },
+  "mitre_attack": {
+    "tactic": "Initial Access",
+    "technique": "T1566 – Phishing"
+  },
+  "author": "Sachida Nand Sharma",
+  "version": "1.0",
+  "last_updated": "2025-10-25"
+}
