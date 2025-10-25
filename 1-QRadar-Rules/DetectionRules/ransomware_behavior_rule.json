@@ -1,0 +1,43 @@
+{
+  "name": "Ransomware Behavior Detection",
+  "id": "QRR-004",
+  "description": "Detects ransomware activity based on sudden file encryption patterns, process creation anomalies, and lateral SMB connections.",
+  "logsource": {
+    "product": "Windows Event Logs",
+    "category": "File System & Process Monitoring"
+  },
+  "condition": {
+    "file_renames": {
+      "pattern": [".locked", ".encrypted", ".cry"],
+      "count_threshold": 50,
+      "timeframe_minutes": 5
+    },
+    "process_behavior": {
+      "suspicious_processes": ["vssadmin.exe", "cipher.exe", "wmic.exe"],
+      "count_threshold": 3
+    },
+    "network_activity": {
+      "protocol": "SMB",
+      "destination_count": {
+        "greater_than": 10,
+        "timeframe_minutes": 5
+      }
+    }
+  },
+  "response": {
+    "severity": "Critical",
+    "offense_type": "Ransomware Activity",
+    "actions": [
+      "Trigger high-priority alert",
+      "Isolate host using SOAR integration",
+      "Notify IR team"
+    ]
+  },
+  "mitre_attack": {
+    "tactic": "Impact",
+    "technique": "T1486 – Data Encrypted for Impact"
+  },
+  "author": "Sachida Nand Sharma",
+  "version": "1.0",
+  "last_updated": "2025-10-25"
+}
