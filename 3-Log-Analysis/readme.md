@@ -32,84 +32,56 @@ I spend my free time running **SOC labs**, monitoring logs, and studying inciden
 
 ---
 
-## Arsenal — Tools & Skills
+# Sachida Sharma — SOC Portfolio
 
-### Security & Monitoring
-<p align="center">
-<img src="https://img.shields.io/badge/IBM_QRadar-000?style=for-the-badge&logo=ibm&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK_Stack-000?style=for-the-badge&logo=elasticstack&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark&logoColor=blue"/>
-</p>
-
-### Networking & Systems
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-000?style=for-the-badge&logo=cisco&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Linux_Command_Line-000?style=for-the-badge&logo=linux&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Windows_Event_Logs-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCP/IP-000?style=for-the-badge"/>
-</p>
-
-### Analysis & Reporting
-<p align="center">
-<img src="https://img.shields.io/badge/Incident_Response-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Threat_Hunting-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Log_Analysis-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python_Scripting-000?style=for-the-badge&logo=python&logoColor=yellow"/>
-</p>
+TechOps Engineer (RailTel, RDSO) — Aspiring L1 SOC Analyst  
+📞 +91 9910710219 | ✉️ brainimmensitynetwork@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/webulity) | [GitHub](https://github.com/sachida-cyber)
 
 ---
 
-## Projects & Labs
-
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [SOC-Lab-Simulation](https://github.com/sachida-cyber/SOC-Lab-Simulation) | Built virtual SIEM environment; created correlation rules for brute-force & port-scan alerts | IBM QRadar, Splunk |
-| [BlueTeam-Detection-Labs](https://github.com/sachida-cyber/BlueTeam-Detection-Labs) | TryHackMe & HTB Blue-Team challenges; IOC hunting & alert triage | Wireshark, Sysmon |
-| [Network-Traffic-Investigation](https://github.com/sachida-cyber/Network-Traffic-Investigation) | Captured & analysed network traffic; Packet Tracer topology simulation | Cisco Packet Tracer, Wireshark |
-| [Incident-Response-Reports](https://github.com/sachida-cyber/Incident-Response-Reports) | SOC-style IR documentation with playbook steps | Markdown, Excel |
+## 🎯 Overview
+This repository demonstrates practical SOC analyst skills — SIEM rule creation, alert tuning, Splunk queries, log parsing, and packet analysis.  
+All data shown here is **synthetic or sanitized** for demonstration.
 
 ---
 
-## Certifications & Badges
-
-- **TryHackMe – SOC Level 1 & Blue Team Labs (hands-on)**  
-- **Hack The Box – Blue Team Modules**  
-- **Ethical Hacking Essentials (EHE)** – EC-Council  
-- **Network Defense Essentials (NDE)** – EC-Council  
-- **Cisco Introduction to Cybersecurity & Packet Tracer Simulation**  
-- **IBM QRadar Security Operations Lab Practice**  
-- **Data Analytics Essentials – Cisco / Coursera**
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/yourTHMusername.png" width="250px"/>
-  <img src="https://www.hackthebox.com/badge/image/yourHTBusername" width="250px"/>
-</p>
+## 🔍 Quick Map
+| Folder | Purpose |
+|--------|----------|
+| `1-QRadar-Rules/` | Detection rules, AQL queries, SPL searches |
+| `2-TryHackMe-Labs/` | Blue Team lab reports |
+| `3-Log-Analysis/` | Log parsing scripts and sample outputs |
+| `4-SOC-Playbooks/` | SOC playbooks and report templates |
+| `5-Network-Analysis/` | Wireshark packet inspection and DNS exfil analysis |
 
 ---
 
-## GitHub Stats
+## 🚀 Quick Evaluation Steps
+1. Open `1-QRadar-Rules/screenshots/qradar_bruteforce_alert.png` — view a sample alert.  
+2. Run `1-QRadar-Rules/splunk_bruteforce_search.spl` on your lab Splunk instance.  
+3. Run `python3 3-Log-Analysis/scripts/parse_failed_logins.py sample_logs/sample_windows_log.csv outputs/failed_login_summary.csv`.  
+4. Review `4-SOC-Playbooks/playbooks/playbook_bruteforce.md` for triage & containment steps.  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachida-cyber&show_icons=true&theme=radical&bg_color=000000&title_color=00FF9C&text_color=FFFFFF&icon_color=00FFF7" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachida-cyber&theme=highcontrast&background=000000&ring=00FF9C&fire=FF0000&currStreakLabel=FFFFFF" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachida-cyber&theme=matrix&column=7" width="100%"/>
-</p>
+> 🧠 All logs and PCAPs are anonymized; no real credentials or PII are used.
 
 ---
 
-## Contact
+## 🧰 Demonstrated Competencies
+- SIEM Query Writing (QRadar AQL, Splunk SPL)
+- Detection Rule Engineering & Tuning
+- Log Parsing & Summary Automation (Python)
+- SOC Playbook Design (Markdown-based)
+- Network Traffic Analysis (Wireshark)
 
-<p align="center">
-<a href="https://linkedin.com/in/webulity"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-<a href="mailto:brainimmensitynetwork@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-<a href="https://tryhackme.com/p/YOUR-USERNAME"><img src="https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-<a href="https://www.hackthebox.com/user/YOUR-ID"><img src="https://img.shields.io/badge/HackTheBox-000?style=for-the-badge&logo=hackthebox&logoColor=green"/></a>
-</p>
+---
+
+## 💡 For Recruiters
+Start with `1-QRadar-Rules/README.md` — it contains queries and screenshots that show analytical thinking.  
+Each folder is one screen long for quick evaluation.
+
+> Want a 90-second demo walkthrough video? Available upon request.
+
 
 ---
 
