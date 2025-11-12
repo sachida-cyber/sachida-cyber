@@ -22,14 +22,7 @@
 
 ## About Me
 
-I’m **Sachida Sharma** → an **aspiring ethical hacker** obsessed with **exploits, web security, and digital forensics**.  
-
-Currently:  
-- Deep-diving into **TryHackMe / HackTheBox / PortSwigger Labs**  
-- Preparing for **eJPT certification**  
-- Building my arsenal for **Red Team & SOC roles**  
-
-Goal: Become a **penetration tester** in the next 6 months.  
+I’m Sachida Sharma, a TechOps Engineer at RailTel (RDSO) building practical experience in Security Operations, log analysis, and incident response. I practice on TryHackMe, Hack The Box, and Cisco Packet Tracer to strengthen my defensive skills.
 
 ---
 
@@ -91,13 +84,7 @@ Goal: Become a **penetration tester** in the next 6 months.
 ---
 
 ## My Learning Progress
-
-| Platform        | Status   | Proof / Profile |
-|-----------------|---------|------------------|
-| **TryHackMe**   | Currently doing Jr. Penetration Tester Path | [View Profile](https://tryhackme.com/) |
-| **Hack The Box** | Solving Starting Point & Easy Machines | [View Profile](https://hackthebox.com/) |
-| **PortSwigger** | Practicing OWASP Top 10 Labs | [View Labs](https://portswigger.net/web-security) |
-| **Certifications** | eJPT — In Progress | Coming Soon |
+TryHackMe – SOC Level 1, Blue Team Labs, Hack The Box Academy – Defensive Modules, etc.
 
 </div>
 
