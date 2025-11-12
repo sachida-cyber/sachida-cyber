@@ -88,68 +88,6 @@ TryHackMe – SOC Level 1, Blue Team Labs, Hack The Box Academy – Defensive Mo
 
 </div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Profile Tabs</title>
-  <style>
-    body {
-      background: #0a0a0a;
-      font-family: Arial, sans-serif;
-      color: #fff;
-    }
-    .tabs {
-      display: flex;
-      gap: 15px;
-      border-bottom: 2px solid #00ff99;
-      padding-bottom: 10px;
-    }
-    .tab {
-      cursor: pointer;
-      padding: 8px 14px;
-      background: transparent;
-      border: none;
-      color: #00ff99;
-      font-weight: bold;
-      transition: 0.2s;
-    }
-    .tab.active {
-      border-bottom: 2px solid #00ff99;
-    }
-    .panel {
-      display: none;
-      padding: 20px 0;
-    }
-    .panel.active {
-      display: block;
-    }
-    .badge {
-      display: flex;
-      align-items: center;
-      gap: 15px;
-      background: #111;
-      padding: 10px;
-      border-radius: 8px;
-      margin-bottom: 12px;
-    }
-    .badge img {
-      width: 60px;
-      height: 60px;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="tabs">
-    <button class="tab active" onclick="openTab(event, 'completed')">✅ Completed Rooms</button>
-    <button class="tab" onclick="openTab(event, 'certificates')">📜 Certificates</button>
-    <button class="tab" onclick="openTab(event, 'skills')">📊 Skills Matrix</button>
-    <button class="tab" onclick="openTab(event, 'badges')">🏆 Badges</button>
-    <button class="tab" onclick="openTab(event, 'created')">📦 Created Rooms</button>
-    <button class="tab" onclick="openTab(event, 'yearly')">📅 Yearly Activity</button>
-  </div>
 
   <!-- Panels -->
   <div id="completed" class="panel active">
